@@ -10,6 +10,8 @@ from datetime import datetime
 sns.set(style="white")
 
 
+print('Made some changes to this! / TH')
+
 # absolute path till parent folder
 abs_path = os.getcwd()
 path_array = abs_path.split("/")
