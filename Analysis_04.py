@@ -7,7 +7,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-sns.set(style="white")
+sns.set(style="blue")
 
 
 # absolute path till parent folder
